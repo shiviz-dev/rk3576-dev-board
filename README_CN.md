@@ -87,8 +87,8 @@ sudo./upgrade_tool uf update.img
 | 图形处理器 (GPU)    | Arm Mali - G52 MC3                                                   |
 | 神经网络加速器 (NPU) | 6TOPS（支持INT4/INT8/INT16/FP16/BF16/TF32）                          |
 | 指令集架构 (ISA)    | ARMv8-A，含TrustZone和加密扩展                                        |
-| 运行内存 (RAM)      | LPDDR4，32G                                                          |
-| 存储（EMMC）        | 64G                                                                 |
+| 运行内存 (RAM)      | LPDDR4，4G                                                          |
+| 存储（EMMC）        | 32G                                                                 |
 | 无线连接            | AP6256，Wi-Fi5（802.11ac）、蓝牙 5.0（含BLE），外接天线接口           |
 | **接口**            |                                                                      |
 | MIPI CSI 接口       | 1路4lane（IMX566、IMX415、OV5640等）                                 |
